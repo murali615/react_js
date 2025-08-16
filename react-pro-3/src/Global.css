@@ -1,0 +1,24 @@
+.bg-primary-custom{
+    color:blue ;
+    background-color: #a73d3d !important;
+}
+.bg-primary-cus{
+    color:white;
+    background-color: aqua;
+}
+
+.fb-margin-3{
+    /* margin-top: 15px;
+    margin-bottom:15px;
+    margin-left:15px;
+    margin-right:15px; */
+    margin: 15px 12px 10px 15px;
+}
+
+.fb-padding-3{
+    padding-top:10px;
+}
+.fb-custom-height{
+    min-height:300px;
+}
+
